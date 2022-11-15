@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/Google%20AdSense-4285F4?style=flat-square&logo=Google%20AdSense&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=Google%20Analytics&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=Let%27s%20Encrypt&logoColor=white">
@@ -61,7 +60,7 @@
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-EE0000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Hubernetes-CB3837?style=flat-square&logo=Hubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/SaaS-D94F00?style=flat-square&logo=SaaS&logoColor=white">
+<img src="https://img.shields.io/badge/DNS-D94F00?style=flat-square&logo=DNS&logoColor=white">
 <img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=OVH&logoColor=white">
 <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=Packagist&logoColor=white">
 <img src="https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=flat-square&logo=PageSpeed%20Insights&logoColor=white">
@@ -87,6 +86,7 @@
 </p>
 <h3>Nonsense badges</h3>
 <p>
+<img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white">
 <img src="https://img.shields.io/badge/Star%20Trek-007aa5?style=flat-square&logo=Star%20Trek&logoColor=white">
 <img src="https://img.shields.io/badge/Dune-CB3837?style=flat-square&logo=Dunek&logoColor=white">
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white">
@@ -95,8 +95,6 @@
 </p>
 
 <!--
-**allenfranco/allenfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
