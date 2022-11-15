@@ -17,9 +17,9 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
 </p>
-<h3>Cloud</h3>
+<h3>Cloud Technologies</h3>
 <p>
-<img src="https://img.shields.io/badge/AWS-E95420?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-E95420?style=flat-square&logo=Amazon%20Cloud&logoColor=white">
 </p>
 <h3>Skills & Technologies</h3>
 <p>
