@@ -20,7 +20,6 @@
 <p>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white">
-<img src="https://img.shields.io/badge/Backblaze-E21E29?style=flat-square&logo=Backblaze&logoColor=white">  
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white">  
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
@@ -76,10 +75,14 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"> 
-  
 <img src="https://img.shields.io/badge/Star%20Trek-007aa5?style=flat-square&logo=Star%20Trek&logoColor=white">
 </p>
 
+
+<h3>More</h3>
+<p>
+<img src="https://img.shields.io/badge/Star_Trek-E21E29?style=flat-square&logo=Startrek&logoColor=white">  
+</p>
 
 <!--
 **allenfranco/allenfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
