@@ -15,11 +15,12 @@
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
 </p>
 <h3>Cloud Technologies</h3>
 <p>
-<img src="https://img.shields.io/badge/AWS-E95420?style=flat-square&logo=Amazon%20Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-E95420?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D6?style=flat-square&logo=Azure&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-0078D6?style=flat-square&logo=Oracle&logoColor=white"> 
 </p>
 <h3>Skills & Technologies</h3>
 <p>
