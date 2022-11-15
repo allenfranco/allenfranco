@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Tech%20to%20You!&height=100&section=header"/>
 
-<img src="https://media.tenor.com/6us3et_6HDoAAAAC/hello-there-hi-there.gif">
+<img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
 </p>
 <h3>Operating Systems</h3>
 <p>
