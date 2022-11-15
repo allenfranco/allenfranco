@@ -71,14 +71,14 @@
 <img src="https://img.shields.io/badge/Splunk-F15B2A?style=flat-square&logo=Splunk&logoColor=white">
 <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white">
 <img src="https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E">
-<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry-Pi">
+<img src="https://img.shields.io/badge/SalesForce-A22846?style=SalesForce&logo=Raspberry-Pi">
 <img src="https://img.shields.io/badge/SemVer-3F4551?style=flat-square&logo=SemVer&logoColor=white">
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white">
 <img src="https://img.shields.io/badge/Sonarqube-1E5397?style=flat-square&logo=Sonarqube&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=Maven&logoColor=white">
-<img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
+<img src="https://img.shields.io/badge/Ant-B5B5B6?style=flat-square&logo=Ant&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat-square&logo=Uptime%20Kuma&logoColor=white">
+<img src="https://img.shields.io/badge/Zabbix-5CDD8B?style=flat-square&logo=Zabbix&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019733?&style=flat-square&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
