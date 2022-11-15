@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=OVH&logoColor=white">
 <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=Packagist&logoColor=white">
 <img src="https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=flat-square&logo=PageSpeed%20Insights&logoColor=white">
-<img src="https://img.shields.io/badge/Pi-hole-96060C?style=flat-square&logo=Pi-hole&logoColor=white">
+<img src="https://img.shields.io/badge/Tsuru-96060C?style=flat-square&logo=Tsuru&logoColor=white">
 <img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=Plesk&logoColor=white">
 <img src="https://img.shields.io/badge/Java-EBAF00?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Splunk-F15B2A?style=flat-square&logo=Splunk&logoColor=white">
@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry-Pi">
 <img src="https://img.shields.io/badge/SemVer-3F4551?style=flat-square&logo=SemVer&logoColor=white">
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white">
-<img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?style=flat-square&logo=Stack%20Exchange">
+<img src="https://img.shields.io/badge/Sonarqube-1E5397?style=flat-square&logo=Sonarqube&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
