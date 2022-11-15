@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**allenfranco/allenfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Glory%20to%20You!&height=100&section=header"/>
@@ -27,6 +14,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"> 
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"> 
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
 </p>
 <h3>Skills & Technologies</h3>
 <p>
@@ -46,9 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=flat-square&logo=editorconfig&logoColor=000">
-<img src="https://img.shields.io/badge/Font%20Awesome-528DD7?style=flat-square&logo=Font%20Awesome&logoColor=white">
-<img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Recent Article on medium 1">
@@ -63,9 +48,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=Let%27s%20Encrypt&logoColor=white">
 <img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=Linode&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat-square&logo=microsoft-visio&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
@@ -83,7 +65,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SemVer-3F4551?style=flat-square&logo=SemVer&logoColor=white">
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white">
 <img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?style=flat-square&logo=Stack%20Exchange">
-<img src="https://img.shields.io/badge/Star%20Trek-007aa5?style=flat-square&logo=Star%20Trek&logoColor=white">
 <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white">
 <img src="https://img.shields.io/badge/SteamDB-000000?style=flat-square&logo=SteamDB&logoColor=white">
 <img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=Synology&logoColor=white">
@@ -94,7 +75,23 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> 
-<img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=Windows%2011&logoColor=white"> 
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white"> 
+  
+<img src="https://img.shields.io/badge/Star%20Trek-007aa5?style=flat-square&logo=Star%20Trek&logoColor=white">
 </p>
+
+
+<!--
+**allenfranco/allenfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
