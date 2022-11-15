@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=Atlassian&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-0078D6?style=flat-square&logo=Kubernetes&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-0052CC?style=flat-square&logo=Grafana&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-0052CC?style=flat-square&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white">  
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Chocolatey-23172BF4?style=flat-square&logo=Chocolatey&logoColor=white">
