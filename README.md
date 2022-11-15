@@ -18,10 +18,10 @@
 </p>
 <h3>Cloud Technologies</h3>
 <p>
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services-E95420?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-E95420?style=flat-square&logo=Amazon&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-0078D6?style=flat-square&logo=Oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/Google%20Cloud%20Platform-0078D6?style=flat-square&logo=Google%20Cloud%20Platform&logoColor=white">  
+<img src="https://img.shields.io/badge/Google%20Cloud%20Platform-0078D6?style=flat-square&logo=Google&logoColor=white">  
 </p>
 <h3>Skills & Technologies</h3>
 <p>
