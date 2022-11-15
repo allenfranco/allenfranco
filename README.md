@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white">
+<img src="https://img.shields.io/badge/AWSCli-3884FF?style=flat-square&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Recent Article on medium 1">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github%20actions&logoColor=white">
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white">
@@ -60,8 +60,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-EE0000?style=flat-square&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/OPNSense-D94F00?style=flat-square&logo=OPNSense&logoColor=white">
+<img src="https://img.shields.io/badge/Hubernetes-CB3837?style=flat-square&logo=Hubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/SaaS-D94F00?style=flat-square&logo=SaaS&logoColor=white">
 <img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=OVH&logoColor=white">
 <img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=Packagist&logoColor=white">
 <img src="https://img.shields.io/badge/PageSpeed%20Insights-4285F4?style=flat-square&logo=PageSpeed%20Insights&logoColor=white">
@@ -72,13 +72,13 @@
 <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white">
 <img src="https://img.shields.io/badge/Prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E">
 <img src="https://img.shields.io/badge/SalesForce-A22846?style=SalesForce&logo=Raspberry-Pi">
-<img src="https://img.shields.io/badge/SemVer-3F4551?style=flat-square&logo=SemVer&logoColor=white">
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20CloudStack-3F4551?style=flat-square&logo=Apache%20CloudStack&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-4C4A73?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/Sonarqube-1E5397?style=flat-square&logo=Sonarqube&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=Maven&logoColor=white">
 <img src="https://img.shields.io/badge/Ant-B5B5B6?style=flat-square&logo=Ant&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Zabbix-5CDD8B?style=flat-square&logo=Zabbix&logoColor=white">
+<img src="https://img.shields.io/badge/Zabbix-96060C?style=flat-square&logo=Zabbix&logoColor=white">
 <img src="https://img.shields.io/badge/Vim-019733?&style=flat-square&logo=vim&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
