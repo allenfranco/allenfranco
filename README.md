@@ -3,9 +3,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Glory%20to%20You!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Tech%20to%20You!&height=100&section=header"/>
 
-<img src="https://media.tenor.com/LvMSWNnHItYAAAAC/lick-lips-lick.gif">
+<img src="[https://media.tenor.com/LvMSWNnHItYAAAAC/lick-lips-lick.gif](https://media.tenor.com/u-8p7vWacWEAAAAC/funny-scary.gif)">
 </p>
 <h3>Operating Systems</h3>
 <p>
