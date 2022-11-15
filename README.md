@@ -1,11 +1,9 @@
 ### Hello there 👋
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Glory%20to%20You!&height=100&section=header"/>
 
-<img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif">
+<img src="https://media.tenor.com/u-8p7vWacWEAAAAC/funny-scary.gif">
 </p>
 <h3>Operating Systems</h3>
 <p>
