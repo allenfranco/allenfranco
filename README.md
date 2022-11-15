@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=flat-square&logo=Let%27s%20Encrypt&logoColor=white">
-<img src="https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=Linode&logoColor=white">
+<img src="https://img.shields.io/badge/Agile-00A95C?style=flat-square&logo=Agile&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
