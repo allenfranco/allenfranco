@@ -19,8 +19,9 @@
 <h3>Cloud Technologies</h3>
 <p>
 <img src="https://img.shields.io/badge/Amazon%20Web%20Services-E95420?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D6?style=flat-square&logo=Azure&logoColor=white"> 
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white"> 
 <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-0078D6?style=flat-square&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Cloud%20Platform-0078D6?style=flat-square&logo=Google%20Cloud%20Platform&logoColor=white">  
 </p>
 <h3>Skills & Technologies</h3>
 <p>
@@ -56,6 +57,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-EE0000?style=flat-square&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/OPNSense-D94F00?style=flat-square&logo=OPNSense&logoColor=white">
 <img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=OVH&logoColor=white">
